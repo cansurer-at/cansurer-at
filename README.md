@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working at [Makdos Software Company](https://makdos.com/tr/)
 
-- 🌱 I’m currently learning **React JS and Javascript**
+- 🌱 I’m currently learning **Javascript and React JS**
 
-- 👨‍💻 All of my projects are available at [www.cansurer.tech](cansurer.tech)
+- 👨‍💻 All of my projects are available at [cansurer.tech](cansurer.tech)
 
 - 📫 How to reach me **info@cansurer.tech**
 
-- 📄 Know about my experiences [www.cansurer.tech](cansurer.tech)
+- 📄 Know about my experiences [cansurer.tech](cansurer.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
