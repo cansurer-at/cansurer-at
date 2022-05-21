@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **React JS and Javascript**
 
-- 👨‍💻 All of my projects are available at [www.cansurer.tech](www.cansurer.tech)
+- 👨‍💻 All of my projects are available at [www.cansurer.tech](cansurer.tech)
 
 - 📫 How to reach me **info@cansurer.tech**
 
-- 📄 Know about my experiences [www.cansurer.tech](www.cansurer.tech)
+- 📄 Know about my experiences [www.cansurer.tech](cansurer.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
