@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
-<h3 align="center">Self-starting Frontend Developer. After working in different fields for over 5 years and seeking something special, I found my passion in development.</h3>
+<h3 align="center">Self-starting Frontend Developer. Learning Node JS, Express and Mongo DB to be an full-stack mern developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cansurer-at&label=Profile%20views&color=0e75b6&style=flat" alt="cansurer-at" /> </p>
 
