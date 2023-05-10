@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cansurer-at&label=Profile%20views&color=0e75b6&style=flat" alt="cansurer-at" /> </p>
 
-- 🔭 I’m currently working at [Sisal Technology Company](https://www.sisal.com/eng)
+- 🔭 I’m currently working at Avica 
 
-- 🌱 I’m currently learning **Javascript and React JS**
+- 🌱 I’m currently learning **Node JS**
 
-- 👨‍💻 All of my projects are available at [cansurer.tech](https://cansurer.tech/)
+- 👨‍💻 All of my projects are available at [cansurer.net](https://cansurer.net/)
 
-- 📫 How to reach me **info@cansurer.tech**
+- 📫 How to reach me **cansurer@outlook.com**
 
-- 📄 Know about my experiences [cansurer.tech](https://cansurer.tech/)
+- 📄 Know about my experiences [cansurer.net](https://cansurer.net/)
 
 
 <h3 align="left">Languages and Tools:</h3>
