@@ -19,5 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cansurer-at&show_icons=true&locale=en&layout=compact" alt="cansurer-at" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cansurer-at&show_icons=true&locale=en" alt="cansurer-at" /></p>
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cansurer-at&" alt="cansurer-at" /></p>
