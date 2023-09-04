@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
-<h3 align="center">Self-starting Frontend Developer. Learning Node JS, Express and Mongo DB to be an full-stack mern developer</h3>
+<h3 align="center">Frontend Developer. Learning Node JS, Express and Mongo DB to be a full-stack mern developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cansurer-at&label=Profile%20views&color=0e75b6&style=flat" alt="cansurer-at" /> </p>
 
@@ -21,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cansurer-at&show_icons=true&locale=en" alt="cansurer-at" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cansurer-at&" alt="cansurer-at" /></p>
