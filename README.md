@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 👨‍💻 All of my projects are available at [cansurer.net](https://cansurer.net/)
 
 - 📫 How to reach me **cansurer@outlook.com**
 
