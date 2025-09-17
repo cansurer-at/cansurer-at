@@ -3,14 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cansurer-at&label=Profile%20views&color=0e75b6&style=flat" alt="cansurer-at" /> </p>
 
-- 🔭 I’m currently working at [AVICA](https://www.linkedin.com/company/avica-platform/) 
 
-- 🌱 I’m currently learning **Node JS**
 
 
 - 📫 How to reach me **cansurer@outlook.com**
 
-- 📄 Know about my experiences [cansurer.net](https://cansurer.net/)
+
 
 
 <h3 align="left">Languages and Tools</h3>
