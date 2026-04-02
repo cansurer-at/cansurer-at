@@ -16,7 +16,7 @@ Building a real-time crypto & commodities trading bot — Telegram interface, Cl
 
 ### Stack
 
-`React` `Next.js` `TypeScript` `Node.js` `Python` `Tailwind CSS` `REST APIs` `Git`
+`React` `Next.js` `TypeScript` `Node.js` `Tailwind CSS` `REST APIs` `Git`
 
 ### Contact
 
